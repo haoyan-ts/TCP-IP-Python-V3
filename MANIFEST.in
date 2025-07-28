@@ -1,5 +1,0 @@
-include README.md
-include README-EN.md
-include LICENSE
-recursive-include files *
-recursive-include images *
